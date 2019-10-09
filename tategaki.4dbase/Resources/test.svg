@@ -445,7 +445,7 @@
 <text class="main" writing-mode="tb-rl" x="1.4in" y="3pc">うつくしい森で飾られたモーリオ市、</text>
 
 <!--#4dif $params.showLayout-->
-  <rect class="layout" x="1.1in" y="3pc" width="0.2in" height="1pc" />
+  <rect class="layout" x="1.1in" y="3pc" width="0.2in" height="2pc" />
     <rect class="layout" x="1.1in" y="13pc" width="0.2in" height="1pc" />
         <rect class="layout" x="1.1in" y="15pc" width="0.2in" height="1pc" />
   <!--#4dendif-->
